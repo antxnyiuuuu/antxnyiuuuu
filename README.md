@@ -8,7 +8,7 @@
 </p>
 
 <br>
-<h2>Sobre Mi </h2>
+<h2>Sobre Mi <img src = "https://www.emojiall.com/images/240/telegram/1f44b.gif" width = 32px> </h2>
 
 <pre>
 💻 Estoy desarrollando mis habilidades como Desarrollador Frontend | Apasionado por React y React Native

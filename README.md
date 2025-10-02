@@ -7,7 +7,6 @@
 	</a>
 </p>
 
-<br>
 <h2>Sobre Mi <img src = "https://www.emojiall.com/images/240/telegram/1f44b.gif" width = 32px> </h2>
 
 <pre>
@@ -27,6 +26,23 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,java,dart,flutter,py,css,html,js,angular,figma,nodejs,mysql,sqlite,git,github,docker,postman,eclipse,vscode,bash&perline=12" />
+  </a>
+</p>
+<br>
+<h2>Sigueme  <img src = "https://i.pinimg.com/originals/01/4d/cf/014dcf029666625b2bf98f890f9931a0.gif" width = 32px> </h2>
+<p align="center">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 8px;">
+  <a href="https://open.spotify.com/user/31zenp2w2epgpjw5imrzcu75jowu?si=s5b1zYBHSbuejyiNAllyuw" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Spotify" width="64" height="64">
+  </a>
+  <a href="https://www.instagram.com/anto_.crxk?igsh=MWRjN3FjcmM4bmN6Yw==" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="64">
+  </a>
+  <a href="https://www.facebook.com/share/1FUp1RV2cp/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="64">
+  </a>
+  <a href="https://x.com/AntxnyzCC?t=BmBiRm2MRUjzX1Dmd0Hfsw&s=09" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" width="64">
   </a>
 </p>
 <br>
